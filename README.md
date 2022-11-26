@@ -1,3 +1,3 @@
-# becky2sawyer.github.io
+# slide.diginori.com
 
-- https://becky2sawyer.github.io/slides/slide-developing-fe-with-quasar-vue3/
+- [slide-developing-fe-with-quasar-vue3](https://becky2sawyer.github.io/slides/slide-developing-fe-with-quasar-vue3)
